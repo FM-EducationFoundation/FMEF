@@ -1,3 +1,6 @@
+name:FM Education Foundation
+title:null
+
 <img src="https://github.com/user-attachments/assets/c7140fe9-e589-4051-8332-239883cdbcd8" alt="FMEF logo" width="600" height="91">
 
 ## Welcome
