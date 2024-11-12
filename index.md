@@ -1,6 +1,3 @@
-name:FM Education Foundation
-title:null
-
 <img src="https://github.com/user-attachments/assets/c7140fe9-e589-4051-8332-239883cdbcd8" alt="FMEF logo" width="600" height="91">
 
 ## Welcome
@@ -32,4 +29,6 @@ Some examples:
 8199 East Seneca Tpke,  
 Manlius, NY 13104  
 
-**Email**: [fmeducationfoundation@gmail.com](mailto:fmeducationfoundation@gmail.com) <img src="https://github.com/user-attachments/assets/29ad48eb-b0f8-4223-9be3-4ed9d2a14563" alt="FMEF logo" width="50" height="65">
+**Email**: [fmeducationfoundation@gmail.com](mailto:fmeducationfoundation@gmail.com)
+
+<img src="https://github.com/user-attachments/assets/29ad48eb-b0f8-4223-9be3-4ed9d2a14563" alt="FMEF logo" width="50" height="65">
